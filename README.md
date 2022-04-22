@@ -7,3 +7,5 @@ It's made in Discord.JS v12 if you couldn't tell by their being no Client Intent
 This is an old project I guess when I was hosting it on Heruko so it has the name Iris but I have a new bot that's a lot better so I don't need this one.
 
 Use it as a reference or learning experience I suppose. 
+
+PS. there're some thing things that don't work for example Giveaway never got around to fixing it.
